@@ -3,6 +3,7 @@ Medical appointment mobile application programmed in Flutter with Firebase for t
 
 ## Usage
 I forgot 💔🥀🥀
+
 ... In all seriousness, in order to run this project, you will need to do the following:
 - Create a FirebaseDB instance to hold the data (schemas and everything)
 - Link the flutter project with your Firebase backend
